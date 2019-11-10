@@ -1,0 +1,32 @@
+{
+  "name": "movedir",
+  "version": "1.0.0",
+  "description": "Move files from one directory to another by nodejs",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/index.test.js"
+  },
+  "keywords": [
+    "move",
+    "directory",
+    "move directory",
+    "fs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuxingZhang/movedir.git"
+  },
+  "author": "Zhang Fu Xing <502545703@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuxingZhang/movedir/issues"
+  },
+  "homepage": "https://github.com/fuxingZhang/movedir#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
