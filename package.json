@@ -1,5 +1,5 @@
 {
-  "name": "movedir",
+  "name": "@fuxingzhang/movedir",
   "version": "1.0.0",
   "description": "Move files from one directory to another by nodejs",
   "main": "./lib",

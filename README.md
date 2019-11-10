@@ -23,7 +23,7 @@ declare function movedir(src: string, dest: string, includeSrc: boolean): Promis
 ### Doesn't include the source folder
 
 ```js
-const movedir = require('movedir');
+const movedir = require('@fuxingzhang/movedir');
 const src = './test/src';
 const dest = './test/dest';
 
@@ -35,7 +35,7 @@ const dest = './test/dest';
 ### Including the source folder
 
 ```js
-const movedir = require('movedir');
+const movedir = require('@fuxingzhang/movedir');
 const src = './test/src';
 const dest = './test/dest';
 
