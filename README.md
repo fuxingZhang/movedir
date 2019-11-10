@@ -4,7 +4,7 @@ move files from one directory to another by nodejs
 ## Install
 
 ```sh
-$ npm i movedir
+$ npm i @fuxingzhang/movedir
 ```  
 
 ## Options  
