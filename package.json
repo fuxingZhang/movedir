@@ -1,6 +1,6 @@
 {
   "name": "@fuxingzhang/movedir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Move files from one directory to another by nodejs",
   "main": "./lib",
   "directories": {
