@@ -4,7 +4,7 @@ move files from one directory to another by nodejs
 ## Install
 
 ```sh
-$ npm i @fuxingzhang/movedir
+$ npm i @zhangfuxing/movedir
 ```  
 
 ## Options  
@@ -23,7 +23,7 @@ declare function movedir(src: string, dest: string, includeSrc: boolean): Promis
 ### Doesn't include the source folder
 
 ```js
-const movedir = require('@fuxingzhang/movedir');
+const movedir = require('@zhangfuxing/movedir');
 const src = './test/src';
 const dest = './test/dest';
 
@@ -35,7 +35,7 @@ const dest = './test/dest';
 ### Including the source folder
 
 ```js
-const movedir = require('@fuxingzhang/movedir');
+const movedir = require('@zhangfuxing/movedir');
 const src = './test/src';
 const dest = './test/dest';
 
