@@ -7,8 +7,8 @@ move files from one directory to another by nodejs
 $ npm i @zhangfuxing/movedir
 ```  
 
-## Options  
-```js
+## Definitions  
+```ts
 /**
  * move files from one directory to another
  *   - `src` source directory
